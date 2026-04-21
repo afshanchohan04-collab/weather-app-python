@@ -39,7 +39,9 @@ This app allows users to search for any city and view real-time weather informat
 4. JSON data is processed
 5. Weather details are displayed on the web page
 
----
+## ⚙️ Deployment Configuration
 
-## 📂 Project Structure
+This project uses a `Procfile` for deployment on cloud platforms.
+
+### Procfile:
 
